@@ -1,0 +1,15 @@
+# Aetelguard
+
+> Aetelguard (also written "Aetel Guard"; Turkish title "Aetelguard: Kule Savunma", English title "Aetelguard: Tower Defense") is a free tower defense strategy game for Android by the developer Oflaz, drawn in handmade pixel art. Released on Google Play on November 7, 2026. Package: com.aetelguard.kulesavunma.
+
+Key facts:
+- Genre: tower defense, strategy. Single player. Plays offline.
+- Content: 100 levels across 4 worlds (Green Valley, Black Swamp, Misty Cliffs, Volcano Temple) plus an Endless Darkness mode; 16 bosses; 15 heroes; 11 towers that evolve as they fight.
+- Languages: Turkish and English.
+- Monetization: free; cosmetics only (no power sold); rewarded ads are optional and no ad opens during a battle.
+- Heroes: Brann Ironshield (tank), Lyra Windarrow (archer), Mordis (summoner), Ragna Redaxe (warrior), Durin Powderbeard (engineer), Selene Lightheart (healer), Kira Shadowclaw (assassin), Eira Frostheart (ice mage), Bora Wolfheart (wolf pack), Oran Goldlute (bard), Alaz Emberheart (fire mage), Yel Windborn (wind monk), Eren Timebender (time mage), Sahin Skywolf (falconer), Ayse Starweaver (star seer).
+
+## Pages
+- [Aetelguard game page (Turkish + English)](https://oflaz42.github.io/aetelguard/): overview, heroes, bosses, towers, FAQ
+- [Google Play](https://play.google.com/store/apps/details?id=com.aetelguard.kulesavunma): download
+- [Privacy policy](https://oflaz42.github.io/): privacy policy of the game
